@@ -9,11 +9,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 
+Diff for [unreleased](https://github.com/jshmrtn/sedex/compare/v1.0.2...HEAD)
+
+## 1.0.2
+
 ### Fixed
 
 * Added missing Files to Hex Publish
 
-Diff for [unreleased](https://github.com/jshmrtn/sedex/compare/v1.0.1...HEAD)
+Diff for [v1.1.10](https://github.com/jshmrtn/crontab/compare/v1.0.1...v1.0.2)
 
 ## 1.0.1
 
