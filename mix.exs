@@ -4,7 +4,7 @@ defmodule Sedex.MixProject do
 
   use Mix.Project
 
-  @version "1.0.0-dev"
+  @version "1.0.0"
 
   def project do
     [
@@ -32,7 +32,7 @@ defmodule Sedex.MixProject do
 
   defp description do
     """
-    PLibrary to work with Sedex.
+    Library to work with Sedex.
     """
   end
 
@@ -63,7 +63,7 @@ defmodule Sedex.MixProject do
   defp package do
     # These are the default files included in the package
     [
-      name: :crontab,
+      name: :sedex,
       files: ["lib", "mix.exs", "README*", "LICENSE*"],
       maintainers: ["Jonatan Männchen"],
       licenses: ["MIT"],

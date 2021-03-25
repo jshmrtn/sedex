@@ -7,6 +7,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- Do not link the versions in the title since this is not compatible with ExDoc. -->
 
-## Unreleased
+## 1.0.0
 
 Initial Commit
