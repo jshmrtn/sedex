@@ -7,6 +7,18 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- Do not link the versions in the title since this is not compatible with ExDoc. -->
 
+## Unreleased
+
+Diff for [unreleased](https://github.com/jshmrtn/sedex/compare/v1.0.1...HEAD)
+
+## 1.0.1
+
+### Fixed
+
+* Hex Publishing Config
+
+Diff for [v1.1.10](https://github.com/jshmrtn/crontab/compare/v1.0.0...v1.0.1)
+
 ## 1.0.0
 
 Initial Commit
