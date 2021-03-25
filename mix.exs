@@ -63,7 +63,6 @@ defmodule Sedex.MixProject do
   defp package do
     # These are the default files included in the package
     [
-      name: :sedex,
       files: ["lib", "mix.exs", "README*", "LICENSE*"],
       maintainers: ["Jonatan Männchen"],
       licenses: ["MIT"],
