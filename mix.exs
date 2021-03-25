@@ -63,7 +63,7 @@ defmodule Sedex.MixProject do
   defp package do
     # These are the default files included in the package
     [
-      files: ["lib", "mix.exs", "README*", "LICENSE*"],
+      files: ["lib", "mix.exs", "README*", "LICENSE*", "priv/schema/*.xsd"],
       maintainers: ["Jonatan Männchen"],
       licenses: ["MIT"],
       links: %{"GitHub" => "https://github.com/jshmrtn/sedex"}
