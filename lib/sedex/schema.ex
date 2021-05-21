@@ -13,7 +13,7 @@ defmodule Sedex.Schema do
     name =
       path
       |> Path.basename(".xsd")
-      |> String.replace("-", "_")
+      |> String.replace(["-", "_"], "")
       |> Macro.camelize()
       |> String.to_atom()
 
