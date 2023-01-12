@@ -52,7 +52,7 @@ defmodule Sedex.MixProject do
       {:ex_aws_s3, "~> 2.0"},
       {:sweet_xml, "~> 0.6"},
       {:erlsom, "~> 1.5"},
-      {:briefly, "~> 0.3.0", only: [:test]},
+      {:briefly, "~> 0.4.1", only: [:test]},
       {:ex_doc, "~> 0.19", only: [:dev], runtime: false},
       {:excoveralls, "~> 0.5", only: [:test], runtime: false},
       {:dialyxir, "~> 1.0", only: [:dev], runtime: false},
